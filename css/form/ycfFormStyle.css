@@ -1,0 +1,16 @@
+.ycf-hide {
+	display: none !important;
+}
+
+.ycf-contact-form .error {
+	margin-top: 5px;
+	color: red;
+}
+
+.ycf-submit {
+	margin-top: 8px;
+}
+
+ul.ycf-radio-wrapper li {
+	list-style: none !important;
+}
